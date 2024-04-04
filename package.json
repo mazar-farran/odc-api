@@ -5,6 +5,7 @@
   "author": "Aleksei Punov (Hivemapper)",
   "private": true,
   "devDependencies": {
+    "@babel/code-frame": "^7.24.2",
     "@babel/core": "^7.13.14",
     "@babel/preset-env": "^7.13.12",
     "@babel/preset-typescript": "^7.13.0",
